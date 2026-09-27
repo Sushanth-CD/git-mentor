@@ -1,4 +1,4 @@
 Hello Git
 I am learning git
-Git is powerful
+Git is extremely powerful
 Login feature is being developed
