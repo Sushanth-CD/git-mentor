@@ -1,4 +1,4 @@
 Hello Git
 I am learning git
-Git is incredibly usefull
+Git is extremely powerful and useful
 Login feature is being developed
