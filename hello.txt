@@ -2,4 +2,3 @@ Hello Git
 I am learning git
 Git is extremely powerful and useful
 Login feature is being developed
-This change is bad
