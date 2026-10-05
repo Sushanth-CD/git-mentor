@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if ! git diff --cached --check; then
+  echo "Commit Blocked: fix whitespace errors first"
+  exit 1
+fi
